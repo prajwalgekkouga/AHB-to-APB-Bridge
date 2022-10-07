@@ -166,3 +166,10 @@ State Machine Viewer:
 - Include functionality for burst read and burst write operations in AHB Master
 - Include an arbitration mechanism and arbitration signals to generalise the testbench
 
+# Documentation
+
+- AMBA Modules | Chapter 4 | [AMBA Modules.pdf](https://github.com/prajwalgekkouga/AHB-to-APB-Bridge/files/9731505/AMBA.Modules.pdf)
+- AMBA Specifications | Chapter 1,2,3 and 5 | [AMBA Specifications.pdf](https://github.com/prajwalgekkouga/AHB-to-APB-Bridge/files/9731507/AMBA.Specifications.pdf)
+
+
+
